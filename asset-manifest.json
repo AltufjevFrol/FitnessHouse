@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FitnessHouse/static/css/main.75109201.chunk.css",
+    "main.js": "/FitnessHouse/static/js/main.68421ad4.chunk.js",
+    "main.js.map": "/FitnessHouse/static/js/main.68421ad4.chunk.js.map",
+    "runtime-main.js": "/FitnessHouse/static/js/runtime-main.29def547.js",
+    "runtime-main.js.map": "/FitnessHouse/static/js/runtime-main.29def547.js.map",
+    "static/js/2.eeff26d3.chunk.js": "/FitnessHouse/static/js/2.eeff26d3.chunk.js",
+    "static/js/2.eeff26d3.chunk.js.map": "/FitnessHouse/static/js/2.eeff26d3.chunk.js.map",
+    "index.html": "/FitnessHouse/index.html",
+    "precache-manifest.e9b3d51bf13a8fa60c8b51d452a6ec94.js": "/FitnessHouse/precache-manifest.e9b3d51bf13a8fa60c8b51d452a6ec94.js",
+    "service-worker.js": "/FitnessHouse/service-worker.js",
+    "static/css/main.75109201.chunk.css.map": "/FitnessHouse/static/css/main.75109201.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29def547.js",
+    "static/js/2.eeff26d3.chunk.js",
+    "static/css/main.75109201.chunk.css",
+    "static/js/main.68421ad4.chunk.js"
+  ]
+}
