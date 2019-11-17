@@ -1,0 +1,32 @@
+.name a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.basket{
+	color: white;
+	width: 160px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: solid 1px ;
+	border-radius: 5px;
+}
+
+.basket span{
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	width: 30px;
+	height: 20px;
+	background: white;
+	color: #2d5580;
+	border-radius: 9px;
+	margin-right: 10px;
+}
+.icon {
+	margin-right: 5px;
+}
+

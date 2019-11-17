@@ -1,0 +1,85 @@
+.img{
+	width: 575px;
+	margin: 0;
+}
+.img img{
+	width: 100%;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px 0 grey
+}
+.info{
+	width: 505px;
+}
+.title{
+	margin-top: 0;
+}
+.description{
+	margin-bottom: 45px;
+	color: #45484b;
+}
+.property{
+	margin: 5px 0;
+}
+.name{
+	font-size: 14px;
+	color: #45484b;
+}
+.value{
+	font-weight: bold;
+	font-size: 14px;
+}
+.buy{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.price{
+	display: inline-block;
+	color: #2d5580;
+	font-size: 20px;
+	margin-right: 70px;
+}
+.num{
+	font-size: 40px;
+	font-weight: bold;
+}
+.money{
+	font-size: 20px;
+}
+.botton{
+	display: inline-block;
+	background: #2d5580;
+	width: 85px;
+	height: 40px;
+	border-radius: 5px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	box-shadow: 1px 1px 5px 0 grey;
+}
+.botton:active{
+	box-shadow: none;
+}
+
+@media only screen and (max-width: 1280px){
+	.info{
+		width: 300px;
+	}
+}
+@media only screen and (max-width: 1024px){
+	.img{
+		width: 350px;
+	}
+}
+@media only screen and (max-width: 768px){
+	.info{
+		width: 400px;
+		margin-bottom: 50px;
+	}
+	.img{
+		width: 400px;
+		margin-bottom: 50px;
+	}
+}
